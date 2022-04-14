@@ -1,0 +1,34 @@
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income\Income\obj\Debug\net6.0-windows\Income.csproj.AssemblyReference.cache
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income\Income\obj\Debug\net6.0-windows\Income.Form1.resources
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income\Income\obj\Debug\net6.0-windows\Income.csproj.GenerateResource.cache
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income\Income\obj\Debug\net6.0-windows\Income.GeneratedMSBuildEditorConfig.editorconfig
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income\Income\obj\Debug\net6.0-windows\Income.AssemblyInfoInputs.cache
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income\Income\obj\Debug\net6.0-windows\Income.AssemblyInfo.cs
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income\Income\obj\Debug\net6.0-windows\Income.csproj.CoreCompileInputs.cache
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income\Income\bin\Debug\net6.0-windows\Income.exe
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income\Income\bin\Debug\net6.0-windows\Income.deps.json
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income\Income\bin\Debug\net6.0-windows\Income.runtimeconfig.json
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income\Income\bin\Debug\net6.0-windows\Income.dll
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income\Income\bin\Debug\net6.0-windows\ref\Income.dll
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income\Income\bin\Debug\net6.0-windows\Income.pdb
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income\Income\obj\Debug\net6.0-windows\Income.dll
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income\Income\obj\Debug\net6.0-windows\ref\Income.dll
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income\Income\obj\Debug\net6.0-windows\Income.pdb
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income\Income\obj\Debug\net6.0-windows\Income.genruntimeconfig.cache
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income งาน\Income\obj\Debug\net6.0-windows\Income.csproj.AssemblyReference.cache
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income งาน\Income\obj\Debug\net6.0-windows\Income.Form1.resources
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income งาน\Income\obj\Debug\net6.0-windows\Income.csproj.GenerateResource.cache
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income งาน\Income\obj\Debug\net6.0-windows\Income.GeneratedMSBuildEditorConfig.editorconfig
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income งาน\Income\obj\Debug\net6.0-windows\Income.AssemblyInfoInputs.cache
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income งาน\Income\obj\Debug\net6.0-windows\Income.AssemblyInfo.cs
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income งาน\Income\obj\Debug\net6.0-windows\Income.csproj.CoreCompileInputs.cache
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income งาน\Income\obj\Debug\net6.0-windows\Income.dll
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income งาน\Income\obj\Debug\net6.0-windows\ref\Income.dll
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income งาน\Income\obj\Debug\net6.0-windows\Income.pdb
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income งาน\Income\bin\Debug\net6.0-windows\Income.exe
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income งาน\Income\bin\Debug\net6.0-windows\Income.deps.json
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income งาน\Income\bin\Debug\net6.0-windows\Income.runtimeconfig.json
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income งาน\Income\bin\Debug\net6.0-windows\Income.dll
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income งาน\Income\bin\Debug\net6.0-windows\ref\Income.dll
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income งาน\Income\bin\Debug\net6.0-windows\Income.pdb
+D:\ม.ขอนแก่น\ป.ตรี\ปี 1-2\IN401105\Income งาน\Income\obj\Debug\net6.0-windows\Income.genruntimeconfig.cache
